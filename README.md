@@ -4,7 +4,7 @@
   - Valentina Cifuentes (v.cifuentes04@ufromail.cl)
   - Viviana Castro (b.merino03@ufromail.cl)
   - Benjamín Merino (v.castro05@ufromail.cl)
-  - Armin Huke (a.huke...)
+  - Armin Huke (a.huke01@ufromail.cl)
 
 ### Problemática: Maltrato Animal
 
