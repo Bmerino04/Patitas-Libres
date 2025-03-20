@@ -6,7 +6,7 @@
   - Benjamín Merino (v.castro05@ufromail.cl)
   - Armin Huke (a.huke...)
 
-### Problemática:
+### Problemática: Maltrato Animal
 
 El abuso y abandono de animales refleja problemas de convivencia y puede estar relacionado con otras formas de violencia. La falta de denuncias y de protocolos de rescate dificulta la intervención.
 
