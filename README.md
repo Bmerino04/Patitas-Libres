@@ -21,4 +21,14 @@ Además, contará con un sistema de difusión de denuncias que permitirá amplif
 
 ### Tecnologías
 
-- 
+## Base de Datos
+- MySQL
+
+## Backend
+- Node.js
+- Express.js
+- Sequelize (ORM)
+
+## Frontend
+- Nuxt.js
+- TailwindCSS
